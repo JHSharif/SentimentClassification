@@ -1,0 +1,9 @@
+/* Limit the width of the body to 600 pixels */
+body {
+    width: 600px;
+}
+
+/* Add padding to the top of elements with the class 'button' */
+.button {
+    padding-top: 20px;
+}
